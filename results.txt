@@ -1,8 +1,12 @@
-These were results on set of 3,000
+0M8R4KGx x 19340
+UEsDBBQA x 5928
+e1xydGYx x 809
+AAAAAAAA x 7
+ICAgICAg x 6
+DQoNCg0K x 5
+Q2Fyb2x5 x 4
+26UtAAAA x 3
+DQo8IURP x 3
+/1dQQ9E1 x 3
+RGVib3Jh x 3
 
-UEsDBBQA x 1489  (doc or docx)
-0M8R4KGx x 1384  (doc or docx)
-e1xydGYx x 89    (probably rtf)
-AAAAAAAA x 5     (probably invalid file)
-
-Will pull specimens to assign signature to types correctly

@@ -1,0 +1,8 @@
+These were results on set of 3,000
+
+UEsDBBQA x 1489  (doc or docx)
+0M8R4KGx x 1384  (doc or docx)
+e1xydGYx x 89    (probably rtf)
+AAAAAAAA x 5     (probably invalid file)
+
+Will pull specimens to assign signature to types correctly

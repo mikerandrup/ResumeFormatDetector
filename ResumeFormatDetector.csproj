@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ResumeSignatureStatGatherer.cs" />
+    <Compile Include="ResumeWithSignatureFinder.cs" />
     <Compile Include="SignatureStore.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

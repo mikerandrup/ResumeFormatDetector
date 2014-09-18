@@ -1,3 +1,3 @@
-"Put any resumes you want in here" 
+"Put any resumes you want in this folder" 
 
-For my testing, I used 3,000 of an available 26,000+ as a sample set.
+For my testing, I used 26,000+ available resumes as a sample set.
